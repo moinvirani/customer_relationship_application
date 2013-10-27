@@ -48,6 +48,7 @@ DONE FOR DEVELOPER
 
 
 DONE:
+--------------
 1 Can add a contact
 2 Can modify existing
 4 Can delete a contact
