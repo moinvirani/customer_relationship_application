@@ -221,7 +221,7 @@ my_crm_app = CRM.new("Moin's")
 
 # Method calls to start CRM App
 my_crm_app.clear
-my_crm_app.populate_contacts
+# my_crm_app.populate_contacts 	# trouble shooting code
 my_crm_app.greeting
 my_crm_app.line
 my_crm_app.main_menu
@@ -229,10 +229,3 @@ my_crm_app.main_menu
 #Troubleshooting code
 
 p Rolodex.contacts
-
-
-
-
-
-
-

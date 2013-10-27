@@ -20,18 +20,6 @@ class Rolodex
     @id += 1
   end
 
-  def self.contact_options
-    
-  end
-
-
-
-  def self.modify_cont
-
-  end
-
-  def delete_contact
-  end
 
   def self.display_all_contacts
     @contacts.each do |contact|
@@ -43,16 +31,5 @@ class Rolodex
       puts "------------------------"
     end
   end
-
-  def display_particular_contact
-
-  end
-
-  def display_info_by_attribute
-  end
+  
 end
-
-
-
-
-
