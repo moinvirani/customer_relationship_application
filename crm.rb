@@ -230,7 +230,7 @@ my_crm_app.main_menu
 
 p Rolodex.contacts
 
-# checking
+#
 
 
 
